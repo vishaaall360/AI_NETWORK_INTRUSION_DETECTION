@@ -12,12 +12,8 @@ A machine learning powered Network Intrusion Detection System (NIDS) that analyz
 - Detection of suspicious network records
 - Clean and modular project structure
 
----
-
-## 🖥️ Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
-
----
+ ## 🖥️ Dashboard Preview
+<img width="1307" height="412" alt="dashboard png" src="https://github.com/user-attachments/assets/bfee44ac-1708-48d4-8663-8e7236f58a81" />
 
 ## 🧠 Technologies Used
 - Python
